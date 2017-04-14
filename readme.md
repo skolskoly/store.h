@@ -1,4 +1,4 @@
-#store.h
+# store.h
 
 A single header library file that allows you to buffer variables to the disk.
 This might be useful for saving state or preferences between sessions. 
