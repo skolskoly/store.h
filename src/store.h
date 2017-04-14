@@ -15,7 +15,7 @@ void registerVariable(void * data, char * name, size_t size)
 {
 	if( idx >= N_VARIABLES )
 	{
-		printf("Variable registery out of memory!");
+		printf("Variable registry out of memory!");
 		return;
 	}
 	
